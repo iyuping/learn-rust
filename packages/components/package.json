@@ -1,0 +1,12 @@
+{
+  "name": "@yup/components",
+  "version": "1.0.0",
+  "description": "React UI components",
+  "main": "src/index.ts",
+  "author": "Andrew",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
